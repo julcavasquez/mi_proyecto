@@ -1,0 +1,6 @@
+_Libro__id,titulo,genero,_Libro__isbn,editorial,autores
+L00001,titulo1,genero1,isbn1,editorial1,jose andersson julca vasquez/marita vanessa sanchez velasquez
+L00002,titulo2,genero2,isbn2,editorial2,sayuri julca vasquez
+L00003,titulo3,genero3,isbn3,editorial3,javier julca zeña/susana vasquez delgado
+4,libro4,genero4,isbn4,editorial4,
+5,libro5,genero5,isbn,editorial5,juan/jose/javier
