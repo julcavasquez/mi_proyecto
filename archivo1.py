@@ -1,7 +1,6 @@
 # Se tiene la clase Libro con los siguientes atributos: id, título, género, ISBN, 
 # editorial y autor(es). Considerar que un libro puede tener varios autores.
 import csv
-import json
 class Libro:
     __id = ''
     titulo = ''
